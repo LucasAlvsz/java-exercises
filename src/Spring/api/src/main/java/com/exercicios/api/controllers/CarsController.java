@@ -1,4 +1,4 @@
-package com.exercicios.api.controller;
+package com.exercicios.api.controllers;
 
 import com.exercicios.api.dto.CarsDTO;
 import org.springframework.web.bind.annotation.RequestBody;
